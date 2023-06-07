@@ -11,6 +11,7 @@ import java.util.function.UnaryOperator;
 /**
  * Handles data processing producing completable future with result.
  */
+@FunctionalInterface
 public interface Step<T> {
     /**
      * Constructs synchronous handler.
