@@ -6,7 +6,7 @@
 
     <groupId>io.github.mjcro</groupId>
     <artifactId>pipeline</artifactId>
-    <version>1.0.8</version>
+    <version>1.0.0</version>
 
     <name>MicroJ pipeline</name>
     <description>Simple completable future pipeline</description>
